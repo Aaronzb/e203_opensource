@@ -1,0 +1,8 @@
+$project/rtl/e203/general/sirv_1cyc_sram_ctrl.v
+$project/rtl/e203/general/sirv_gnrl_bufs.v
+$project/rtl/e203/general/sirv_gnrl_dffs.v
+$project/rtl/e203/general/sirv_gnrl_icbs.v
+$project/rtl/e203/general/sirv_gnrl_ram.v
+$project/rtl/e203/general/sirv_gnrl_xchecker.v
+$project/rtl/e203/general/sirv_sim_ram.v
+$project/rtl/e203/general/sirv_sram_icb_ctrl.v

@@ -1,0 +1,11 @@
+$project/rtl/e203/subsys/e203_subsys_clint.v
+$project/rtl/e203/subsys/e203_subsys_gfcm.v
+$project/rtl/e203/subsys/e203_subsys_hclkgen.v
+$project/rtl/e203/subsys/e203_subsys_hclkgen_rstsync.v
+$project/rtl/e203/subsys/e203_subsys_main.v
+$project/rtl/e203/subsys/e203_subsys_mems.v
+$project/rtl/e203/subsys/e203_subsys_perips.v
+$project/rtl/e203/subsys/e203_subsys_plic.v
+$project/rtl/e203/subsys/e203_subsys_pll.v
+$project/rtl/e203/subsys/e203_subsys_pllclkdiv.v
+$project/rtl/e203/subsys/e203_subsys_top.v

@@ -1,0 +1,8 @@
+-f $project/rtl/e203/core/core.sim.lst
+-f $project/rtl/e203/debug/debug.sim.lst
+-f $project/rtl/e203/fab/fab.sim.lst
+-f $project/rtl/e203/general/general.sim.lst
+-f $project/rtl/e203/mems/mems.sim.lst
+-f $project/rtl/e203/perips/perips.sim.lst
+-f $project/rtl/e203/subsys/soc.sim.lst
+$project/rtl/e203/soc/e203_soc_top.v

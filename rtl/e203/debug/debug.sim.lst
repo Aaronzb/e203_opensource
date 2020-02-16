@@ -1,0 +1,5 @@
+$project/rtl/e203/debug/sirv_debug_csr.v
+$project/rtl/e203/debug/sirv_debug_module.v
+$project/rtl/e203/debug/sirv_debug_ram.v
+$project/rtl/e203/debug/sirv_debug_rom.v
+$project/rtl/e203/debug/sirv_jtag_dtm.v
